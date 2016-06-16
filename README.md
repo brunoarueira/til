@@ -4,8 +4,13 @@
 
 ### Categories
 
+* [Git](#git)
 * [JavaScript](#javascript)
 * [PostgreSQL](#postgresql)
+
+### Git
+
+- [Split one commit in multiples](git/split-one-commit-in-multiples.md)
 
 ### JavaScript
 
