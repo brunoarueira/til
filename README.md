@@ -16,6 +16,11 @@
 
 - [Discover the caller of function](javascript/caller.md)
 
+### Node
+
+- [List packages globally without the full
+  tree](node/list-globally-packages-without-full-tree.md)
+
 ### PostgreSQL
 
 - [Find missing indexes](postgres/find-missing-indexes.md)
