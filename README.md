@@ -33,7 +33,7 @@ I shamelessly stole this idea from [thoughtbot/til](https://github.com/thoughtbo
 
 ## License
 
-&copy; 2016-2017 Bruno Arueira
+&copy; 2016-2018 Bruno Arueira
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
