@@ -11,6 +11,7 @@
 ### Git
 
 - [Split one commit in multiples](git/split-one-commit-in-multiples.md)
+- [Show the first commit on the repository](git/show-first-commit.md)
 
 ### JavaScript
 
@@ -18,8 +19,7 @@
 
 ### Node
 
-- [List packages globally without the full
-  tree](node/list-globally-packages-without-full-tree.md)
+- [List packages globally without the full tree](node/list-globally-packages-without-full-tree.md)
 
 ### PostgreSQL
 
