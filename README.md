@@ -26,6 +26,7 @@
 - [Find missing indexes](postgres/find-missing-indexes.md)
 - [Export dump from one table as sql inserts](postgres/xport-dump-from-one-table-as-sql-inserts.md)
 - [List tables with more records](postgres/list-tables-with-more-records.md)
+- [Flatten hierarchy in one query](postgres/flatten-hierarchy-in-one-query.md)
 
 ## About
 
