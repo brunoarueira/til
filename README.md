@@ -26,7 +26,7 @@
 
 ### PostgreSQL
 
-- [Export dump from one table as sql inserts](postgres/xport-dump-from-one-table-as-sql-inserts.md)
+- [Export dump from one table as sql inserts](postgres/export-dump-from-one-table-as-sql-inserts.md)
 - [Find missing indexes](postgres/find-missing-indexes.md)
 - [Flatten hierarchy in one query](postgres/flatten-hierarchy-in-one-query.md)
 - [List tables with more records](postgres/list-tables-with-more-records.md)
