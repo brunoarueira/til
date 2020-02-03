@@ -8,6 +8,7 @@
 * [JavaScript](#javascript)
 * [Node](#node)
 * [PostgreSQL](#postgresql)
+* [Shell](#shell)
 
 ### Git
 
@@ -29,6 +30,10 @@
 - [Find missing indexes](postgres/find-missing-indexes.md)
 - [Flatten hierarchy in one query](postgres/flatten-hierarchy-in-one-query.md)
 - [List tables with more records](postgres/list-tables-with-more-records.md)
+
+### Shell
+
+- [Pipe ls output and join with comma](shell/pipe_ls_output_and_join_with_comma.md)
 
 ## About
 
