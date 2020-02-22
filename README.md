@@ -30,6 +30,7 @@
 - [Find missing indexes](postgres/find-missing-indexes.md)
 - [Flatten hierarchy in one query](postgres/flatten-hierarchy-in-one-query.md)
 - [List tables with more records](postgres/list-tables-with-more-records.md)
+- [Skip privilege issues on restore backup](postgres/skip-privilege-issues-on-restore-backup.md)
 
 ### Shell
 
