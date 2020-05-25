@@ -34,6 +34,7 @@
 
 ### Shell
 
+- [Curl with total time of request](shell/curl_with_total_time_of_request.md)
 - [Pipe ls output and join with comma](shell/pipe_ls_output_and_join_with_comma.md)
 
 ## About
