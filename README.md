@@ -7,6 +7,7 @@
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Node](#node)
+* [OSX](#osx)
 * [PostgreSQL](#postgresql)
 * [Shell](#shell)
 
@@ -23,6 +24,10 @@
 ### Node
 
 - [List packages globally without the full tree](node/list-globally-packages-without-full-tree.md)
+
+### OSX
+
+- [Filesystem is case insensitive](osx/filesystem-case-sensitivity.md)
 
 ### PostgreSQL
 
