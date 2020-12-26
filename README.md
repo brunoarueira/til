@@ -9,6 +9,7 @@
 * [Node](#node)
 * [OSX](#osx)
 * [PostgreSQL](#postgresql)
+* [Rust](#rust)
 * [Shell](#shell)
 
 ### Git
@@ -36,6 +37,10 @@
 - [Flatten hierarchy in one query](postgres/flatten-hierarchy-in-one-query.md)
 - [List tables with more records](postgres/list-tables-with-more-records.md)
 - [Skip privilege issues on restore backup](postgres/skip-privilege-issues-on-restore-backup.md)
+
+### Rust
+
+- [Convert Vec<u8> into a displayable string](rust/convert-vec-u8-displayable-string.md)
 
 ### Shell
 
