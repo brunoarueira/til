@@ -14,6 +14,7 @@
 
 ### Git
 
+- [Cherry pick without commit](git/cherry-pick-without-commit.md)
 - [List untracked files](git/list-untracked-files.md)
 - [Show the first commit on the repository](git/show-first-commit.md)
 - [Split one commit in multiples](git/split-one-commit-in-multiples.md)
