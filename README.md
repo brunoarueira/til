@@ -4,6 +4,7 @@
 
 ### Categories
 
+* [Docker](#docker)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Node](#node)
@@ -11,6 +12,10 @@
 * [PostgreSQL](#postgresql)
 * [Rust](#rust)
 * [Shell](#shell)
+
+### Docker
+
+- [Access container as root](docker/access-container-as-root.md)
 
 ### Git
 
