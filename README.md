@@ -60,7 +60,7 @@ I shamelessly stole this idea from [thoughtbot/til](https://github.com/thoughtbo
 
 ## License
 
-&copy; 2016-2020 Bruno Arueira
+&copy; 2016-2021 Bruno Arueira
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
