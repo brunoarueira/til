@@ -22,9 +22,9 @@
 - [Cherry pick without commit](git/cherry-pick-without-commit.md)
 - [Diff algorithm patience](git/diff-algorithm-patience.md)
 - [List untracked files](git/list-untracked-files.md)
+- [Revert file to its state in another branch](git/revert-file-to-its-state-in-another-branch.md)
 - [Show the first commit on the repository](git/show-first-commit.md)
 - [Split one commit in multiples](git/split-one-commit-in-multiples.md)
-- [Revert file to its state in another branch](git/revert-file-to-its-state-in-another-branch.md)
 
 ### JavaScript
 
@@ -54,8 +54,8 @@
 ### Shell
 
 - [Curl with total time of request](shell/curl_with_total_time_of_request.md)
-- [Pipe ls output and join with comma](shell/pipe_ls_output_and_join_with_comma.md)
 - [Pipe ls + egrep + sort -u + xargs + awscli](shell/pipe_ls_plus_egrep_plus_sort_u_plus_xargs_plus_awscli.md)
+- [Pipe ls output and join with comma](shell/pipe_ls_output_and_join_with_comma.md)
 
 ## About
 
