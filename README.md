@@ -10,6 +10,7 @@
 * [Node](#node)
 * [OSX](#osx)
 * [PostgreSQL](#postgresql)
+* [Python](#python)
 * [Rust](#rust)
 * [Shell](#shell)
 
@@ -46,6 +47,10 @@
 - [Kill connection](postgres/kill-connection.md)
 - [List tables with more records](postgres/list-tables-with-more-records.md)
 - [Skip privilege issues on restore backup](postgres/skip-privilege-issues-on-restore-backup.md)
+
+### Python
+
+- [Get the caller's method name in the called method?](python/get-the-callers-method-name-in-the-called-method.md)
 
 ### Rust
 
