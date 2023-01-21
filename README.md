@@ -42,6 +42,7 @@
 ### PostgreSQL
 
 - [Export dump from one table as sql inserts](postgres/export-dump-from-one-table-as-sql-inserts.md)
+- [Find duplicate rows inside table](postgres/find-duplicate-rows-inside-table.md)
 - [Find missing indexes](postgres/find-missing-indexes.md)
 - [Flatten hierarchy in one query](postgres/flatten-hierarchy-in-one-query.md)
 - [Kill connection](postgres/kill-connection.md)
