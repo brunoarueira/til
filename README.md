@@ -17,6 +17,7 @@
 ### Docker
 
 - [Access container as root](docker/access-container-as-root.md)
+- [Delete docker builder cache](docker/delete-builder-cache.md)
 
 ### Git
 
