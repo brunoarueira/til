@@ -7,6 +7,7 @@
 * [Docker](#docker)
 * [Git](#git)
 * [JavaScript](#javascript)
+* [Kubernetes](#kubernetes)
 * [Node](#node)
 * [OSX](#osx)
 * [PostgreSQL](#postgresql)
@@ -31,6 +32,10 @@
 ### JavaScript
 
 - [Discover the caller of function](javascript/caller.md)
+
+### Kubernetes
+
+- [Check logs from init containers](kubernetes/check-logs-from-init-containers.md)
 
 ### Node
 
