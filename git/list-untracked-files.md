@@ -1,6 +1,6 @@
 List untracked files
 
-```
+```sh
   git ls-files -z -o --exclude-standard
 ```
 

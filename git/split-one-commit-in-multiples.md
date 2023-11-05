@@ -1,12 +1,12 @@
 Open a previous commit (move files back to the staging)
 
-```
+```sh
   git reset --soft HEAD^
 ```
 
 or
 
-```
+```sh
   git reset --soft HEAD~1
 ```
 

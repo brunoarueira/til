@@ -5,7 +5,7 @@ from nyummy.cimory
 where city = 'tokio'
 ```
 
-```
+```sh
 $ pg_dump --table=export_table --data-only --column-inserts my_database > data.sql
 ```
 

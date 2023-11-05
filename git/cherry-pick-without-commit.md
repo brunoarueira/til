@@ -1,4 +1,4 @@
-```
+```sh
   git cherry-pick -n <commit-sha>
 ```
 

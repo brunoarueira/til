@@ -1,6 +1,6 @@
 Show the first commit on the repository
 
-```
+```sh
   git rev-list --max-parents=0 HEAD
 ```
 
