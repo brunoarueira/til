@@ -28,6 +28,7 @@
 - [Revert file to its state in another branch](git/revert-file-to-its-state-in-another-branch.md)
 - [Show the first commit on the repository](git/show-first-commit.md)
 - [Split one commit in multiples](git/split-one-commit-in-multiples.md)
+- [Stash specific file](git/stash-specific-file.md)
 
 ### JavaScript
 
