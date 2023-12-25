@@ -5,6 +5,7 @@
 ### Categories
 
 * [Docker](#docker)
+* [General](#general)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Kubernetes](#kubernetes)
@@ -20,6 +21,10 @@
 
 - [Access container as root](docker/access-container-as-root.md)
 - [Delete docker builder cache](docker/delete-builder-cache.md)
+
+### General
+
+- [Decrypt a password protected pdf](general/decrypt-a-password-protected-pdf.md)
 
 ### Git
 
