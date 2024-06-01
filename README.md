@@ -29,6 +29,7 @@
 ### Git
 
 - [Cherry pick without commit](git/cherry-pick-without-commit.md)
+- [Deleting your credentials via the command line](git/deleting-your-credentials-via-the-command-line.md)
 - [Diff algorithm patience](git/diff-algorithm-patience.md)
 - [List untracked files](git/list-untracked-files.md)
 - [Revert file to its state in another branch](git/revert-file-to-its-state-in-another-branch.md)
