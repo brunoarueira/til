@@ -24,6 +24,7 @@
 
 ### General
 
+- [Convert aac to mp3 with ffmpeg](general/convert-aac-to-mp3-with-ffmpeg.md)
 - [Decrypt a password protected pdf](general/decrypt-a-password-protected-pdf.md)
 
 ### Git
