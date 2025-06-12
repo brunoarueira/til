@@ -72,6 +72,7 @@
 
 - [Convert aac to m4a](shell/convert_aac_to_m4a.md)
 - [Convert aac to mp3 with ffmpeg](shell/convert-aac-to-mp3-with-ffmpeg.md)
+- [Convert csv to json](shell/convert_csv_to_json.md)
 - [Curl with total time of request](shell/curl_with_total_time_of_request.md)
 - [Decrypt a password protected pdf](shell/decrypt-a-password-protected-pdf.md)
 - [Format json file with jq + sponge](shell/format_json_file_with_jq_sponge.md)
