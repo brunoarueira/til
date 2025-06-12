@@ -5,7 +5,6 @@
 ### Categories
 
 * [Docker](#docker)
-* [General](#general)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Kubernetes](#kubernetes)
@@ -21,11 +20,6 @@
 
 - [Access container as root](docker/access-container-as-root.md)
 - [Delete docker builder cache](docker/delete-builder-cache.md)
-
-### General
-
-- [Convert aac to mp3 with ffmpeg](general/convert-aac-to-mp3-with-ffmpeg.md)
-- [Decrypt a password protected pdf](general/decrypt-a-password-protected-pdf.md)
 
 ### Git
 
@@ -76,11 +70,13 @@
 
 ### Shell
 
+- [Convert aac to m4a](shell/convert_aac_to_m4a.md)
+- [Convert aac to mp3 with ffmpeg](shell/convert-aac-to-mp3-with-ffmpeg.md)
 - [Curl with total time of request](shell/curl_with_total_time_of_request.md)
+- [Decrypt a password protected pdf](shell/decrypt-a-password-protected-pdf.md)
+- [Format json file with jq + sponge](shell/format_json_file_with_jq_sponge.md)
 - [Pipe ls + egrep + sort -u + xargs + awscli](shell/pipe_ls_plus_egrep_plus_sort_u_plus_xargs_plus_awscli.md)
 - [Pipe ls output and join with comma](shell/pipe_ls_output_and_join_with_comma.md)
-- [Convert aac to m4a](shell/convert_aac_to_m4a.md)
-- [Format json file with jq + sponge](shell/format_json_file_with_jq_sponge.md)
 
 ### WSL
 
