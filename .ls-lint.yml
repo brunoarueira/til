@@ -1,0 +1,4 @@
+ls:
+  .md: kebab-case
+ignore:
+  - README.md
