@@ -81,7 +81,7 @@
 
 ### WSL
 
-- [Time is wrong after sleep](wsl/time_is_wrong_after_sleep.md)
+- [Time is wrong after sleep](wsl/time-is-wrong-after-sleep.md)
 
 ## About
 
