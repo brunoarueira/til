@@ -70,18 +70,18 @@
 
 ### Shell
 
-- [Convert aac to m4a](shell/convert_aac_to_m4a.md)
+- [Convert aac to m4a](shell/convert-aac-to-m4a.md)
 - [Convert aac to mp3 with ffmpeg](shell/convert-aac-to-mp3-with-ffmpeg.md)
-- [Convert csv to json](shell/convert_csv_to_json.md)
-- [Curl with total time of request](shell/curl_with_total_time_of_request.md)
+- [Convert csv to json](shell/convert-csv-to-json.md)
+- [Curl with total time of request](shell/curl-with-total-time-of-request.md)
 - [Decrypt a password protected pdf](shell/decrypt-a-password-protected-pdf.md)
-- [Format json file with jq + sponge](shell/format_json_file_with_jq_sponge.md)
-- [Pipe ls + egrep + sort -u + xargs + awscli](shell/pipe_ls_plus_egrep_plus_sort_u_plus_xargs_plus_awscli.md)
-- [Pipe ls output and join with comma](shell/pipe_ls_output_and_join_with_comma.md)
+- [Format json file with jq + sponge](shell/format-json-file-with-jq-sponge.md)
+- [Pipe ls + egrep + sort -u + xargs + awscli](shell/pipe-ls-plus-egrep-plus-sort-u-plus-xargs-plus-awscli.md)
+- [Pipe ls output and join with comma](shell/pipe-ls-output-and-join-with-comma.md)
 
 ### WSL
 
-- [Time is wrong after sleep](wsl/time_is_wrong_after_sleep.md)
+- [Time is wrong after sleep](wsl/time-is-wrong-after-sleep.md)
 
 ## About
 
